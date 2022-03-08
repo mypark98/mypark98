@@ -1,7 +1,7 @@
 <h3>Hi there.   
   
   
-   I'm web developer Minyoung Park 🚀
+   I'm developer Minyoung Park 🚀
 </h3>
 
 <!--
