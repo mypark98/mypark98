@@ -54,6 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JDeveloper-EC1C24?style=flat-square&logo=logo&logoColor=white"/>
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Jira-5395FD?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
