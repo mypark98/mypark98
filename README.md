@@ -41,15 +41,20 @@ Here are some ideas to get you started:
 <div>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-FF6550?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Servlet-FF6550?style=flat-square&logo=&logoColor=white"/>
 </div>
 
 ##### Server and Tools
 <div>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ProObject-6DB33F?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<!--  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Golden-FF7900?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nexacrostudio-891B26?style=flat-square&logo=logo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDeveloper-EC1C24?style=flat-square&logo=logo&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
  　
